@@ -2,8 +2,6 @@
 
 This is our PyTorch implementation for the paper:
 
-Please see the paper for more details.
-
 ## Environment Requirement
 
 The code has been tested running under Python 3.6.5. The required packages are as follows:
